@@ -18,9 +18,7 @@ The dashboard helps identify conversion drop-offs, evaluate marketing channel pe
 - Analyze customer sessions by device.
 - Provide business recommendations.
 
----
-
-## 🛠 Tools Used
+ 🛠 Tools UseD
 
 - Power BI
 - Google Colab
